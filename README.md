@@ -1,4 +1,4 @@
-<h1>Building a SOC Home Lab - Windows Workstation</h1>
+<h1>Building a SOC Home Lab - Sysmon</h1>
 
  ### 
 
